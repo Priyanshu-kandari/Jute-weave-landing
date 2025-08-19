@@ -249,7 +249,6 @@
 #right-main{
     height: 10vh;
     width: 100%;
-    background-color: aqua;
     background-image: url(model.jpg);
     background-size: cover;
 }
